@@ -1,0 +1,113 @@
+{
+	"version": "2.0",
+	"name": "tsne-test-pixel",
+	"description": "",
+	"points": 16384,
+	"projection": "",
+	"hierarchy": {
+		"firstChunkSize": 594, 
+		"stepSize": 4, 
+		"depth": 0
+	},
+	"offset": [-4629.5900000000001, -1927.28, -2782.1900000000001],
+	"scale": [0.01, 0.01, 0.01],
+	"spacing": 73.729921875000002,
+	"boundingBox": {
+		"min": [-4629.5900000000001, -1927.28, -2782.1900000000001], 
+		"max": [4807.8400000000001, 7510.1500000000005, 6655.2399999999998]
+	},
+	"encoding": "DEFAULT",
+	"attributes": [
+		{
+			"name": "position",
+			"description": "",
+			"size": 12,
+			"numElements": 3,
+			"elementSize": 4,
+			"type": "int32",
+			"min": [-4629.5900000000001, -1927.28, -2782.1900000000001],
+			"max": [4807.8400000000001, 3411.2600000000002, 2870.29]
+		},{
+			"name": "intensity",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "return number",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [1]
+		},{
+			"name": "number of returns",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [1]
+		},{
+			"name": "classification",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "scan angle rank",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "user data",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "point source id",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "gps-time",
+			"description": "",
+			"size": 8,
+			"numElements": 1,
+			"elementSize": 8,
+			"type": "double",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "rgb",
+			"description": "",
+			"size": 6,
+			"numElements": 3,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [11, 16, 4],
+			"max": [232, 229, 246]
+		}
+	]
+}

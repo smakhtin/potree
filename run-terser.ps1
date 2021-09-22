@@ -1,0 +1,1 @@
+terser ./libs/other/BinaryHeap.js ./libs/tween/tween.min.js ./libs/proj4/proj4.js ./libs/openlayers3/ol.js ./libs/i18next/i18next.js ./libs/jstree/jstree.js ./libs/plasio/js/laslaz.js > ./build/contrib.potree.js --compress
